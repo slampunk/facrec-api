@@ -1,0 +1,7 @@
+dlib
+face_recognition
+imutils
+opencv-python
+djangorestframework
+django
+django-cors-headers
